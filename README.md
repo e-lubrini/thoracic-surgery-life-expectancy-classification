@@ -24,12 +24,19 @@ class 1 - death within one year after surgery, class 2 - survival.
 
 ### Class Distribution
 Class value (Risk1Y) is binary valued.
+
 Risk1Y Value Number of Instances:
+
 T 70
+
 N 400
 
 ### Numeric Attributes Statistics
 Min Max Mean SD
+
 PRE4: 1.4 6.3 3.3 0.9
+
 PRE5: 0.96 86.3 4.6 11.8
+
 AGE: 21 87 52.5 8.7
+
