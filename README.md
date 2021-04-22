@@ -2,6 +2,11 @@
 Post-operative life expectancy in lung cancer patients
 class 1 - death within one year after surgery, class 2 - survival.
 
+## Classification
+### Algorithms
+Three classification algorithms are compared and the best one is selected for its results to be analysed.
+Weights assigned to the classes are then adjusted, together with the scoring function, to adapt to the healthcare provider's needs.
+
 ## Dataset description
 ### Attributes
 1. DGN: Diagnosis - specific combination of ICD-10 codes for primary and secondary as well multiple tumours if any (DGN3,DGN2,DGN4,DGN6,DGN5,DGN8,DGN1)
