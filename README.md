@@ -1,7 +1,9 @@
 # Thoracic Surgery Life Expectancy Classification
 Post-operative life expectancy in lung cancer patients
 
-class 1 - death within one year after surgery, class 2 - survival.
+| class 1 | death within one year after surgery |
+|---------|-------------------------------------|
+| class 2 | survival                            |
 
 ## Classification
 Three classification algorithms are compared and the best one is selected for its results to be analysed. Weights assigned to the classes are then adjusted, together with the scoring function, to adapt to the healthcare provider's needs.
